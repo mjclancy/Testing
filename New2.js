@@ -2,6 +2,7 @@
 //
 // Copyright (c) 2010 Doug McInnes
 //
+// Comment added
 
 KEY_CODES = {
   13: 'enter',
